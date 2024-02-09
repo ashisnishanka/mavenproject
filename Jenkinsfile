@@ -7,7 +7,7 @@
 	  
 	  stages{
 	  
-	  stage("checkout"){
+	  stage("checkout1"){
 	   steps{
 	   git 'https://github.com/ashisnishanka/mavenproject.git'
 	   }
